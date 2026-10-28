@@ -2,6 +2,7 @@
 
 **WARNING⚠️: This is in early alpha. This, currently, looks ugly, and has absolutely nothing useful. Please consider it as something you should not daily drive**
 
+--
 
 **LEGAL WARNING⚠️: Take The L, Studio is not affiliated with, copied from, or stolen from FL Studio, by Image Line. This project is licensed under MIT.**
 
